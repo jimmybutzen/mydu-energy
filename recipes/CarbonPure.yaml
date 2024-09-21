@@ -1,0 +1,15 @@
+id: 1262929839
+time: 25
+nanocraftable: false
+in:
+- CarbonOre: 65
+- AlkalinePlus: 85
+out:
+- CarbonPure: 45
+- OxygenPure: 7.5
+- HydrogenPure: 7.5
+industries:
+- IndustryRefiner
+- IndustryRefiner2
+- IndustryRefiner3
+- IndustryRefiner4

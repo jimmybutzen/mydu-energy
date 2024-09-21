@@ -1,0 +1,8 @@
+AlkalinePlus:
+  parent: CatalystMaterial
+  assetAlias: Plasma2
+  displayName: Alkaline Energy+
+  unitMass: 649.3857142857142
+  unitVolume: 1
+  level: 3
+  price: 1

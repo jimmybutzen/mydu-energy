@@ -1,0 +1,9 @@
+Alkaline:
+  parent: AtmoFuel
+  displayName: Alkaline Energy
+  assetAlias: Plasma1
+  newPlayerDefaultQty: 0
+  unitMass: 4
+  unitVolume: 1
+  level: 1
+  price: 30

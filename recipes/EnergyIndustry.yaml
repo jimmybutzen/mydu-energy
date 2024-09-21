@@ -1,0 +1,15 @@
+id: 3333333333
+time: 120
+nanocraftable: false
+in:
+- pipe_1: 36
+- powersystem_1: 25
+- chemicalcontainer_1_m: 1
+- reinforcedframe_1_m: 1
+out:
+- IndustryEnergy: 1
+industries:
+- IndustryAssemblyM4
+- IndustryAssemblyM3
+- IndustryAssemblyM2
+- IndustryAssemblyM

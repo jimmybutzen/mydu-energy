@@ -1,0 +1,9 @@
+StaticBatteryXS:
+  parent: ContainerSmallGroup
+  assetAlias: Battery
+  displayName: Static Battery Container
+  subdescription: The basic model is cheaper and more versatile.
+  level: 1
+  maxVolume: 100000
+  unitMass: 229.09
+  massFactor: 1

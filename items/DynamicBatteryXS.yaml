@@ -1,0 +1,12 @@
+DynamicBatteryXS:
+  parent: AtmoFuelContainer
+  assetAlias: Battery
+  displayName: Dynamic Battery XS
+  subdescription: TODO
+  maxVolume: 100
+  unitMass: 35.03
+  unitVolume: 17.80
+  level: 1
+  scale: xs
+  hitpoints: 50
+  visibilityLOD: 2

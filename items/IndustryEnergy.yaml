@@ -1,0 +1,12 @@
+IndustryEnergy:
+  parent: Industry1
+  assetAlias: Generator
+  displayName: Basic Energy industry
+  unitVolume: 479.20
+  unitMass: 2302.34
+  scale: m
+  subdescription: Eenergy industry units are used to produce Energy
+  hitpoints: 5563
+  requiredTalentsForUse:
+  - name: ChemicalIndustryProficiency
+    level: 1

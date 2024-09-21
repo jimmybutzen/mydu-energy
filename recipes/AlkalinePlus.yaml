@@ -1,0 +1,11 @@
+id: 3333333335
+time: 60
+nanocraftable: false
+in:
+- SiliconPure: 60
+- OxygenPure: 80
+- HydrogenPure: 80
+out:
+- AlkalinePlus: 100
+industries:
+- IndustryEnergy
